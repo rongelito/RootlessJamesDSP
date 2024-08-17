@@ -1,8 +1,4 @@
-# Using root
 
-If you want to use this app with the JamesDSP magisk module on a rooted device, follow these instructions:
-
-**Important: I don't actively test root builds. They may be more unstable than the regular rootless version.**
 
 1. Install the JamesDSP magisk module if not already done.
 2. Uninstall the original JamesDSP app.
